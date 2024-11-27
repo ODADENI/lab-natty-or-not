@@ -1,12 +1,33 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Mulher Sibernética IA
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Denise aluna da DIO aqui! Estou começando nesse mundo das IAs Generativas, e como é impressionante a facilidade de informções e imagens...
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+
+## 🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para informativo;
+IA Generativa D-ID para criar Avatar;
+IA Generativa Bing para criar imagem.
+
+
+## 🧐 Processo de Criação
+Busquei informaçoes, foto sobre quem usa perna mecânica.
+Utilizei o "ChatGPT" para pesquisa sobre mulher que usa perna mecânica. "D-ID" e "Bing" eu usei para gerar imagen e Avatar exclusiva para projeto.
+
+## 🚀 Resultados
+Gratificante poder criar de forma rápida um conteudo informativo para auxiliar outras pessoas que usam perna mecanica assim como eu. 
+
+
+[https://studio.d-id.com/share?id=611d77ebf0d6b8b38e3d09845777f646&utm_source=copy]
+[https://sl.bing.net/C5i5w76cNM](https://sl.bing.net/gLqIfXrsbAq)
+https://chatgpt.com/share/6746652f-9060-8012-922b-3c3c194709b1
+
+
+
+
+
 
 ### Objetivos
 
@@ -17,35 +38,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
