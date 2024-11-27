@@ -22,7 +22,7 @@ Gratificante poder criar de forma rápida um conteudo informativo para auxiliar 
 
 [https://studio.d-id.com/share?id=611d77ebf0d6b8b38e3d09845777f646&utm_source=copy]
 [https://sl.bing.net/C5i5w76cNM](https://sl.bing.net/gLqIfXrsbAq)
-https://chatgpt.com/share/6746652f-9060-8012-922b-3c3c194709b1
+[https://sl.bing.net/dioMsYre7GK](https://th.bing.com/th/id/OIG4.QWc1V57et77LX9uDtk_E?pid=ImgGn)
 
 
 
