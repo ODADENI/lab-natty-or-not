@@ -21,7 +21,9 @@ Gratificante poder criar de forma rápida um conteudo informativo para auxiliar 
 
 
 [https://studio.d-id.com/share?id=611d77ebf0d6b8b38e3d09845777f646&utm_source=copy]
+
 [https://sl.bing.net/C5i5w76cNM](https://sl.bing.net/gLqIfXrsbAq)
+
 [https://sl.bing.net/dioMsYre7GK]
 
 
