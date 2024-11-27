@@ -1,4 +1,4 @@
-# Mulher Sibernética IA
+# Mulher Cibernética IA
 
 ## 🚀 Introdução
 
